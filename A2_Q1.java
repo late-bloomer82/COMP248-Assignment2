@@ -1,3 +1,9 @@
+// --------------------------------------------------------------------
+// Assignment 2
+// Written by: Ahmad-Radjai Cherifi, 40327926
+// For COMP 248 Section U – Winter 2025
+// --------------------------------------------------------------------
+// The Montreal Museum of Fine Arts Ticket Pricing System determines the appropriate ticket price based on a visitor's age, student status, veteran status, and membership. The program first checks if the visitor is a member (who gets free entry). If not, it considers their age group to assign a base ticket price, then applies any applicable discounts for students or veterans. Finally, it displays the calculated ticket price to the user.
 import java.util.Scanner;
 
 public class A2_Q1 {
